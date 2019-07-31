@@ -1,0 +1,14 @@
+Add the index.html and style.css files to a new Visual Studio Code project.
+
+Create a github repository. Once created add the following:
+- A working .gitignore file
+- A README.md file with an awesome title and description
+- A good number of commits with descriptive messages
+- Branches for each feature/team member
+
+Refactor the CSS (style.css) to SCSS (style.scss) using the SCSS features you've learned. 
+Note: You can also split up your .scss files and make use of imports in your style.scss file. Use any folder structure you feel is best to keep your work organised.
+
+Recommended tools:
+Sassmeister: https://www.sassmeister.com/
+Live Sass Compiler (Visual Studio Code) - https://marketplace.visualstudio.com/items?itemName=ritwickdey.live-sass
