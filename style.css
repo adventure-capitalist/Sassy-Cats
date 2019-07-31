@@ -10,6 +10,8 @@ body {
   margin: 0;
 }
 
+/* This section is about the nav bar */
+
 a {
   color: #506F8E;
 }
@@ -77,7 +79,7 @@ a:hover {
   -ms-transform: scale(1.1);
   transform: scale(1.1);
 }
-
+/* This section is about the footer */
 .footer {
   background: #506F8E;
   border-top: 10px solid #EEE4DA;
@@ -112,7 +114,7 @@ a:hover {
 .footer nav a:hover {
   color: #D9D0CB;
 }
-
+/* This part is about the actual copy with the adoptable kittens */
 .kittens {
   list-style-type: none;
   padding: 0;
@@ -142,7 +144,7 @@ a:hover {
 .kittens li label {
   font-weight: bold;
 }
-
+/* Side bar? */
 .subcontent {
   background: #fff;
   padding: 2em 0 3em;
